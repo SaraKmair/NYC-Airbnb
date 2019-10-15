@@ -3,6 +3,13 @@ Since 2008, guests and hosts have used Airbnb to expand on traveling possibiliti
 personalized way of experiencing the world. 
 This dataset describes the listing activity and metrics in NYC for 2019.
 
+Purpose of this analysis:
+What can we learn about each neighbourhood and the price in each neighbourhood?
+What can we learn about top hosts?
+What is the most popular room_type and what can we conclude from that?
+
+This project was done in R include Data exploration, univariate and bivariate analysis, Data visualization and detecting ourliers 
+
 Dataset columns:
 id: listing ID
 name: short discription of the listing
@@ -12,7 +19,7 @@ neighbourhood_group: neightbourhood location
 neighbourhood: area
 latitude: latitude coordinates
 longitude: longitude coordinates
-room_typelisting: space type
+room_type: listing space type
 price: price in dollars
 minimum_nights: amount of nights minimum the guest can stay
 number_of_reviews: number of reviews
