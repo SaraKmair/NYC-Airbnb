@@ -27,3 +27,6 @@ last_review: data of latest review
 reviews_per_month: number of reviews per month
 calculated_host_listings_count: amount of listing per host
 availability_365: number of days when listing is available for booking
+
+
+Data Source : https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
