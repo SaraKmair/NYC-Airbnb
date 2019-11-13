@@ -8,7 +8,8 @@ What can we learn about each neighbourhood and the price in each neighbourhood?
 What can we learn about top hosts?
 What is the most popular room_type and what can we conclude from that?
 
-This project was done in R include Data exploration, univariate and bivariate analysis, Data visualization and detecting ourliers 
+This project was done in R  
+Data exploration, univariate and bivariate analysis, Data visualization and detecting ourliers 
 
 Dataset columns:
 id: listing ID
