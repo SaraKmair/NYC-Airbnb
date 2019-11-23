@@ -30,8 +30,10 @@ str(airbnb)
 
 #changing id column from integer to char
 airbnb$host_id <- as.character(airbnb$host_id)
+
 #Delete id column and host_name as it has no influence in our analysis 
 airbnb <- subset(airbnb, select = -c(id, host_name, availability_365))
+
 #changing the name attribute to desc as it gives a small description about the listing
 colnames(airbnb)[which(names(airbnb) == "name")] <- "description"
 colnames(airbnb)[which(names(airbnb) == "calculated_host_listings_count")] <- "listing_cnt"
