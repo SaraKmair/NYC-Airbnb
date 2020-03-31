@@ -4,9 +4,9 @@ personalized way of experiencing the world.
 This dataset describes the listing activity and metrics in NYC for 2019.<br />
 
 Purpose of this analysis: <br />
-What can we learn about each neighbourhood and the price in each neighbourhood? 
-What can we learn about top hosts?
-What is the most popular room_type and what can we conclude from that?
+What can we learn about each neighbourhood and the price in each neighbourhood? <br />
+What can we learn about top hosts? <br />
+What is the most popular room_type and what can we conclude from that? <br />
 
 This project was done in R  <br />
 
